@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3bccda66b6e580499b3ed26a1e7581d, type: 3}
+  m_Name: DogHouseObjectData
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: WPZHnarNaEa5kLJ
+  <ObjectType>k__BackingField: 3
+  <Prefab>k__BackingField: {fileID: 1536968697610550907, guid: 3e5175136f4fd0c41a8fbd53356b575b, type: 3}
